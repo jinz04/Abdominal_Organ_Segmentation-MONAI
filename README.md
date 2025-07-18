@@ -5,6 +5,7 @@ This repository contains a complete, end-to-end pipeline for training a 3D U-Net
 The goal is to segment 13 different abdominal organs from CT scans provided by the FLARE22 (Fast and Low-resource Abdominal oRgan sEgmentation) challenge.
 
 <img width="1415" height="516" alt="image" src="https://github.com/user-attachments/assets/7a234e6f-8bf7-4a3b-86d4-8ac2d44f5b3c" />
+<img width="1415" height="516" alt="image" src="https://github.com/user-attachments/assets/b32da186-1901-4597-9bad-155e1939c7ec" />
 
 
 ---
